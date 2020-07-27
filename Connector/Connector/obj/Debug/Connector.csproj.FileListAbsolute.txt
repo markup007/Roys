@@ -1,0 +1,58 @@
+D:\Works\EmptyContainer\Connector\Connector\Connector\bin\Debug\Connector.dll
+D:\Works\EmptyContainer\Connector\Connector\Connector\bin\Debug\Connector.pdb
+D:\Works\EmptyContainer\Connector\Connector\Connector\obj\Debug\ResolveAssemblyReference.cache
+D:\Works\EmptyContainer\Connector\Connector\Connector\obj\Debug\Connector.dll
+D:\Works\EmptyContainer\Connector\Connector\Connector\obj\Debug\Connector.pdb
+C:\Users\passionlabs\Documents\Google Talk Received Files\Connector\Connector\Connector\bin\Debug\tforConnector.dll
+C:\Users\passionlabs\Documents\Google Talk Received Files\Connector\Connector\Connector\bin\Debug\tforConnector.pdb
+C:\Users\passionlabs\Documents\Google Talk Received Files\Connector\Connector\Connector\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\passionlabs\Documents\Google Talk Received Files\Connector\Connector\Connector\obj\Debug\tforConnector.dll
+C:\Users\passionlabs\Documents\Google Talk Received Files\Connector\Connector\Connector\obj\Debug\tforConnector.pdb
+D:\My Works\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.dll
+D:\My Works\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.pdb
+D:\My Works\RoysGold Live\Connector\Connector\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.dll
+D:\My Works\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.pdb
+M:\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.dll
+M:\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.pdb
+M:\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.dll
+M:\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.pdb
+M:\RoysGold Live\Connector\Connector\obj\Debug\Connector.csprojResolveAssemblyReference.cache
+D:\WORKS\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.dll
+D:\WORKS\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.pdb
+D:\WORKS\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.dll
+D:\WORKS\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.pdb
+D:\WORKS\RoysGold Live\Connector\Connector\obj\Debug\Connector.csprojResolveAssemblyReference.cache
+D:\Work\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.dll
+D:\Work\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.pdb
+D:\Work\RoysGold Live\Connector\Connector\obj\Debug\Connector.csprojResolveAssemblyReference.cache
+D:\Work\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.dll
+D:\Work\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.pdb
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.pdb
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.pdb
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\Connector\Connector\obj\Debug\Connector.csprojResolveAssemblyReference.cache
+E:\Works\Freelance\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.dll
+E:\Works\Freelance\RoysGold Live\Connector\Connector\bin\Debug\tforConnector.pdb
+E:\Works\Freelance\RoysGold Live\Connector\Connector\obj\Debug\Connector.csproj.CoreCompileInputs.cache
+E:\Works\Freelance\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.dll
+E:\Works\Freelance\RoysGold Live\Connector\Connector\obj\Debug\tforConnector.pdb
+F:\Aleena\SVN112\RoysApp\Connector\Connector\bin\Debug\tforConnector.dll
+F:\Aleena\SVN112\RoysApp\Connector\Connector\bin\Debug\tforConnector.pdb
+F:\Aleena\SVN112\RoysApp\Connector\Connector\obj\Debug\Connector.csprojAssemblyReference.cache
+F:\Aleena\SVN112\RoysApp\Connector\Connector\obj\Debug\Connector.csproj.CoreCompileInputs.cache
+F:\Aleena\SVN112\RoysApp\Connector\Connector\obj\Debug\tforConnector.dll
+F:\Aleena\SVN112\RoysApp\Connector\Connector\obj\Debug\tforConnector.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\Connector\Connector\bin\Debug\tforConnector.dll
+D:\User Data\Downloads\RoysApp\RoysApp\Connector\Connector\bin\Debug\tforConnector.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\Connector\Connector\obj\Debug\Connector.csprojAssemblyReference.cache
+D:\User Data\Downloads\RoysApp\RoysApp\Connector\Connector\obj\Debug\Connector.csproj.CoreCompileInputs.cache
+D:\User Data\Downloads\RoysApp\RoysApp\Connector\Connector\obj\Debug\tforConnector.dll
+D:\User Data\Downloads\RoysApp\RoysApp\Connector\Connector\obj\Debug\tforConnector.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\Connector\Connector\bin\Debug\tforConnector.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\Connector\Connector\bin\Debug\tforConnector.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\Connector\Connector\obj\Debug\Connector.csproj.CoreCompileInputs.cache
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\Connector\Connector\obj\Debug\tforConnector.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\Connector\Connector\obj\Debug\tforConnector.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\Connector\Connector\obj\Debug\Connector.csprojAssemblyReference.cache

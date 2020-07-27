@@ -1,0 +1,37 @@
+D:\WORKS\DBHelperV3PLabs\bin\Debug\DBHelper.dll
+D:\WORKS\DBHelperV3PLabs\bin\Debug\DBHelper.pdb
+D:\WORKS\DBHelperV3PLabs\bin\Debug\MySql.Data.dll
+D:\WORKS\DBHelperV3PLabs\obj\Debug\DBHelper.dll
+D:\WORKS\DBHelperV3PLabs\obj\Debug\DBHelper.pdb
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\bin\Debug\DBHelper.dll
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\bin\Debug\DBHelper.pdb
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\bin\Debug\MySql.Data.dll
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CoreCompileInputs.cache
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CopyComplete
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\obj\Debug\DBHelper.dll
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\obj\Debug\DBHelper.pdb
+E:\Works\Freelance\RoysGold Live\DBHelperV3PLabs\obj\Debug\DBHelper.csprojAssemblyReference.cache
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csprojAssemblyReference.cache
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CoreCompileInputs.cache
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.dll
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.pdb
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\bin\Debug\DBHelper.dll
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\bin\Debug\DBHelper.pdb
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\bin\Debug\MySql.Data.dll
+F:\Aleena\SVN112\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CopyComplete
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\bin\Debug\DBHelper.dll
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\bin\Debug\DBHelper.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\bin\Debug\MySql.Data.dll
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CoreCompileInputs.cache
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CopyComplete
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.dll
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csprojAssemblyReference.cache
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\bin\Debug\DBHelper.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\bin\Debug\DBHelper.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\bin\Debug\MySql.Data.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CoreCompileInputs.cache
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csproj.CopyComplete
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\DBHelperV3PLabs\obj\Debug\DBHelper.csprojAssemblyReference.cache

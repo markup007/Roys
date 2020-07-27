@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizObj", "BizObj.csproj", "{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SERVICE", "..\..\..\SERVICE", "{2BAFDB56-86B2-4D81-957F-0822EAACCB48}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		ProjectReferences = "{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}|BizObj.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/SERVICE"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\SERVICE\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SERVICE\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SERVICE"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\SERVICE\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SERVICE\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50231"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Debug|x86.ActiveCfg = Debug|x86
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Debug|x86.Build.0 = Debug|x86
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Release|x86.ActiveCfg = Release|x86
+		{6523A53F-1F0D-44CC-B55B-94A0FBC4BACA}.Release|x86.Build.0 = Release|x86
+		{2BAFDB56-86B2-4D81-957F-0822EAACCB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAFDB56-86B2-4D81-957F-0822EAACCB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAFDB56-86B2-4D81-957F-0822EAACCB48}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2BAFDB56-86B2-4D81-957F-0822EAACCB48}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAFDB56-86B2-4D81-957F-0822EAACCB48}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{2BAFDB56-86B2-4D81-957F-0822EAACCB48}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

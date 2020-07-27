@@ -1,0 +1,73 @@
+F:\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+F:\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+F:\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+F:\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+F:\RoysGold\BizObj\bin\x86\Debug\PL.dll
+F:\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+F:\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+F:\ROY_05112011\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+F:\ROY_05112011\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+F:\ROY_05112011\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+F:\ROY_05112011\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+F:\ROY_05112011\RoysGold\BizObj\bin\x86\Debug\PL.dll
+F:\ROY_05112011\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ROY_05112011\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+F:\ROY_05112011\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\x86\Debug\PL.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\bin\x86\Debug\PL.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\bin\x86\Debug\PL.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\bin\x86\Debug\PL.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+E:\RoysGold\BizObj\bin\x86\Debug\BizObj.dll
+E:\RoysGold\BizObj\bin\x86\Debug\BizObj.pdb
+E:\RoysGold\BizObj\bin\x86\Debug\DBHelper.dll
+E:\RoysGold\BizObj\bin\x86\Debug\MySql.Data.dll
+E:\RoysGold\BizObj\bin\x86\Debug\PL.dll
+E:\RoysGold\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RoysGold\BizObj\obj\x86\Debug\BizObj.dll
+E:\RoysGold\BizObj\obj\x86\Debug\BizObj.pdb
+E:\BIZOBJ\BizObj\bin\x86\Debug\BizObj.dll
+E:\BIZOBJ\BizObj\bin\x86\Debug\BizObj.pdb
+E:\BIZOBJ\BizObj\bin\x86\Debug\DBHelper.dll
+E:\BIZOBJ\BizObj\bin\x86\Debug\MySql.Data.dll
+E:\BIZOBJ\BizObj\bin\x86\Debug\PL.dll
+E:\BIZOBJ\BizObj\bin\x86\Debug\DBHelper.pdb
+E:\BIZOBJ\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BIZOBJ\BizObj\obj\x86\Debug\BizObj.dll
+E:\BIZOBJ\BizObj\obj\x86\Debug\BizObj.pdb
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\x86\Debug\BizObj.dll
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\x86\Debug\BizObj.pdb
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\x86\Debug\DBHelper.dll
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\x86\Debug\PL.dll
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\x86\Debug\DBHelper.pdb
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\x86\Debug\BizObj.dll
+C:\Users\passionlabs\Documents\Google Talk Received Files\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\x86\Debug\BizObj.pdb

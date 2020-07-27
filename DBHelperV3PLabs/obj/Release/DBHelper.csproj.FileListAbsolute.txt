@@ -1,0 +1,6 @@
+D:\WORKS\DBHelperV3PLabs\bin\Release\DBHelper.dll
+D:\WORKS\DBHelperV3PLabs\bin\Release\DBHelper.pdb
+D:\WORKS\DBHelperV3PLabs\bin\Release\MySql.Data.dll
+D:\WORKS\DBHelperV3PLabs\obj\Release\DBHelper.dll
+D:\WORKS\DBHelperV3PLabs\obj\Release\DBHelper.pdb
+D:\WORKS\DBHelperV3PLabs\obj\Release\DBHelper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,376 @@
+F:\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+F:\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+F:\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+F:\RoysGold\RoysGold\bin\x86\Debug\BizObj.dll
+F:\RoysGold\RoysGold\bin\x86\Debug\DBHelper.dll
+F:\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+F:\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+F:\RoysGold\RoysGold\bin\x86\Debug\MySql.Data.dll
+F:\RoysGold\RoysGold\bin\x86\Debug\BizObj.pdb
+F:\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GL_006.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DD_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MnuFrm.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Report.RP_008.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RoysGold.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_0042.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+F:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\BizObj.dll
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\DBHelper.dll
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\MySql.Data.dll
+F:\ROY_05112011\RoysGold\RoysGold\bin\x86\Debug\BizObj.pdb
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GL_006.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DD_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MnuFrm.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Report.RP_008.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RoysGold.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_0042.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+F:\ROY_05112011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\DBHelper.dll
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\MySql.Data.dll
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\bin\x86\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GL_006.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DD_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MnuFrm.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Report.RP_008.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_009.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RoysGold.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_0042.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+C:\Users\SANOOP\Desktop\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\BizObj.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\DBHelper.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\MySql.Data.dll
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\bin\x86\Debug\BizObj.pdb
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GL_006.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DD_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MnuFrm.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_009.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+F:\ROYSGOLD\18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\DBHelper.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\bin\x86\Debug\MySql.Data.dll
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GL_006.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DD_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MnuFrm.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_009.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+C:\Users\Noble\Documents\Google Talk Received Files\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_009.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+F:\ROYSGOLD\NEW_18-11-2011\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb
+E:\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe.config
+E:\RoysGold\RoysGold\bin\x86\Debug\RoysGold.exe
+E:\RoysGold\RoysGold\bin\x86\Debug\RoysGold.pdb
+E:\RoysGold\RoysGold\bin\x86\Debug\BizObj.dll
+E:\RoysGold\RoysGold\bin\x86\Debug\DBHelper.dll
+E:\RoysGold\RoysGold\bin\x86\Debug\MySql.Data.dll
+E:\RoysGold\RoysGold\bin\x86\Debug\PL.dll
+E:\RoysGold\RoysGold\bin\x86\Debug\RptControl.dll
+E:\RoysGold\RoysGold\bin\x86\Debug\BizObj.pdb
+E:\RoysGold\RoysGold\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CB_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.CO_003.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DB_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DC_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GL_006.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.DD_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MnuFrm.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TD_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_003.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.FL_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GF_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GM_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GP_003.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GU_004.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.GR_005.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MIG_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MK_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.ME_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MG_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MA_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MI_003.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_004.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.MS_005.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.Properties.Resources.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_003.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.report_viewer.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_004.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_005.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_006.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.RP_009.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TF_005.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TR_004.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_002.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TS_001.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.TP_003.resources
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.csproj.GenerateResource.Cache
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.exe
+E:\RoysGold\RoysGold\obj\x86\Debug\RoysGold.pdb

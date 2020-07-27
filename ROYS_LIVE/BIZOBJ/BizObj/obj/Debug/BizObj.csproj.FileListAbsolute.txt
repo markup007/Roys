@@ -1,0 +1,248 @@
+E:\RoysGold\BizObj\bin\Debug\BizObj.dll
+E:\RoysGold\BizObj\bin\Debug\BizObj.pdb
+E:\RoysGold\BizObj\bin\Debug\DBHelper.dll
+E:\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+E:\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+E:\RoysGold\BizObj\obj\Debug\BizObj.dll
+E:\RoysGold\BizObj\obj\Debug\BizObj.pdb
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\bin\Debug\BizObj.dll
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\bin\Debug\BizObj.pdb
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\bin\Debug\DBHelper.dll
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\obj\Debug\BizObj.dll
+C:\Documents and Settings\All Users\Documents\Roy Gold 25-06-2011\RoysGold\BizObj\obj\Debug\BizObj.pdb
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\bin\Debug\BizObj.dll
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\bin\Debug\BizObj.pdb
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\bin\Debug\DBHelper.dll
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\obj\Debug\BizObj.dll
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\obj\Debug\BizObj.pdb
+C:\Documents and Settings\renju\My Documents\RoysGold\BizObj\bin\Debug\PL.dll
+E:\My Works\RoysGold\30062011\BizObj\bin\Debug\BizObj.dll
+E:\My Works\RoysGold\30062011\BizObj\bin\Debug\BizObj.pdb
+E:\My Works\RoysGold\30062011\BizObj\bin\Debug\DBHelper.dll
+E:\My Works\RoysGold\30062011\BizObj\bin\Debug\MySql.Data.dll
+E:\My Works\RoysGold\30062011\BizObj\bin\Debug\PL.dll
+E:\My Works\RoysGold\30062011\BizObj\obj\Debug\ResolveAssemblyReference.cache
+E:\My Works\RoysGold\30062011\BizObj\obj\Debug\BizObj.dll
+E:\My Works\RoysGold\30062011\BizObj\obj\Debug\BizObj.pdb
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\bin\Debug\BizObj.dll
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\bin\Debug\BizObj.pdb
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\bin\Debug\DBHelper.dll
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\bin\Debug\PL.dll
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\obj\Debug\BizObj.dll
+C:\Documents and Settings\Administrator\Desktop\Renju\30062011\BizObj\obj\Debug\BizObj.pdb
+D:\Gold\BizObj\bin\Debug\BizObj.dll
+D:\Gold\BizObj\bin\Debug\BizObj.pdb
+D:\Gold\BizObj\bin\Debug\DBHelper.dll
+D:\Gold\BizObj\bin\Debug\MySql.Data.dll
+D:\Gold\BizObj\bin\Debug\PL.dll
+D:\Gold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\Gold\BizObj\obj\Debug\BizObj.dll
+D:\Gold\BizObj\obj\Debug\BizObj.pdb
+G:\Gold\BizObj\bin\Debug\BizObj.dll
+G:\Gold\BizObj\bin\Debug\BizObj.pdb
+G:\Gold\BizObj\bin\Debug\DBHelper.dll
+G:\Gold\BizObj\bin\Debug\MySql.Data.dll
+G:\Gold\BizObj\bin\Debug\PL.dll
+G:\Gold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+G:\Gold\BizObj\obj\Debug\BizObj.dll
+G:\Gold\BizObj\obj\Debug\BizObj.pdb
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\bin\Debug\BizObj.dll
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\bin\Debug\BizObj.pdb
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\bin\Debug\DBHelper.dll
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\bin\Debug\PL.dll
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\obj\Debug\BizObj.dll
+C:\Documents and Settings\All Users\Documents\Gold\BizObj\obj\Debug\BizObj.pdb
+E:\My Works\RoysGold\Gold\BizObj\bin\Debug\BizObj.dll
+E:\My Works\RoysGold\Gold\BizObj\bin\Debug\BizObj.pdb
+E:\My Works\RoysGold\Gold\BizObj\bin\Debug\DBHelper.dll
+E:\My Works\RoysGold\Gold\BizObj\bin\Debug\MySql.Data.dll
+E:\My Works\RoysGold\Gold\BizObj\bin\Debug\PL.dll
+E:\My Works\RoysGold\Gold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+E:\My Works\RoysGold\Gold\BizObj\obj\Debug\BizObj.dll
+E:\My Works\RoysGold\Gold\BizObj\obj\Debug\BizObj.pdb
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\bin\Debug\BizObj.dll
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\bin\Debug\BizObj.pdb
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\bin\Debug\DBHelper.dll
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\bin\Debug\PL.dll
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\obj\Debug\BizObj.dll
+C:\Documents and Settings\Administrator\My Documents\Google Talk Received Files\Gold\BizObj\obj\Debug\BizObj.pdb
+E:\My Works\RoysGold\RoysGold\BizObj\bin\Debug\BizObj.dll
+E:\My Works\RoysGold\RoysGold\BizObj\bin\Debug\BizObj.pdb
+E:\My Works\RoysGold\RoysGold\BizObj\bin\Debug\DBHelper.dll
+E:\My Works\RoysGold\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+E:\My Works\RoysGold\RoysGold\BizObj\bin\Debug\PL.dll
+E:\My Works\RoysGold\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+E:\My Works\RoysGold\RoysGold\BizObj\obj\Debug\BizObj.dll
+E:\My Works\RoysGold\RoysGold\BizObj\obj\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\Debug\DBHelper.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\bin\Debug\PL.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\obj\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysGold\BizObj\obj\Debug\BizObj.pdb
+D:\RoysGold\BizObj\bin\Debug\BizObj.dll
+D:\RoysGold\BizObj\bin\Debug\BizObj.pdb
+D:\RoysGold\BizObj\bin\Debug\DBHelper.dll
+D:\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+D:\RoysGold\BizObj\bin\Debug\PL.dll
+D:\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\RoysGold\BizObj\obj\Debug\BizObj.dll
+D:\RoysGold\BizObj\obj\Debug\BizObj.pdb
+F:\RoysGold\BizObj\bin\Debug\BizObj.dll
+F:\RoysGold\BizObj\bin\Debug\BizObj.pdb
+F:\RoysGold\BizObj\bin\Debug\DBHelper.dll
+F:\RoysGold\BizObj\bin\Debug\MySql.Data.dll
+F:\RoysGold\BizObj\bin\Debug\PL.dll
+F:\RoysGold\BizObj\obj\Debug\ResolveAssemblyReference.cache
+F:\RoysGold\BizObj\obj\Debug\BizObj.dll
+F:\RoysGold\BizObj\obj\Debug\BizObj.pdb
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+D:\RoysGold\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\RoysGold_LIVE\BACKUP_ROYS_WEB_SERVICE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+F:\NewRoys\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\30-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\30-11-2011\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\30-11-2011\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\30-11-2011\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+C:\Users\SANOOP\Desktop\RoysgoldFrom28-11-2011\30-11-2011\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\My Works\RoysGold\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\ResolveAssemblyReference.cache
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\My Works\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+M:\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojResolveAssemblyReference.cache
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojResolveAssemblyReference.cache
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\WORKS\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojResolveAssemblyReference.cache
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\Work\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojResolveAssemblyReference.cache
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\WORKS\RoysGold Live\Sanoop\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CoreCompileInputs.cache
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojAssemblyReference.cache
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CopyComplete
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+E:\Works\Freelance\RoysGold Live\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojAssemblyReference.cache
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CoreCompileInputs.cache
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CopyComplete
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+F:\Aleena\SVN112\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojAssemblyReference.cache
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CoreCompileInputs.cache
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CopyComplete
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+D:\User Data\Downloads\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\BizObj.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\MySql.Data.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\PL.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\bin\Debug\DBHelper.pdb
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csprojAssemblyReference.cache
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CoreCompileInputs.cache
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.csproj.CopyComplete
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.dll
+E:\Works\SVN\SVN 218\RoysApp\RoysApp\ROYS_LIVE\BIZOBJ\BizObj\obj\Debug\BizObj.pdb
